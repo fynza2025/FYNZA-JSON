@@ -1,5 +1,5 @@
-    {
-          id: 1,
+{
+{         id: 1,
           slug: "fynza-elite-3pc-set-1",
           name: "Fynza Chrome 28''",
           description: "Premium lightweight hard-sided luggage designed for modern travel.",
@@ -326,4 +326,5 @@
             "Expandability for extra packing",
             "Anti-scratch matte finish"
           ],
-        },
+        }
+}
