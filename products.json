@@ -1,4 +1,4 @@
-{         id: 1,
+{         "id": 1,
           slug: "fynza-elite-3pc-set-1",
           name: "Fynza Chrome 28''",
           description: "Premium lightweight hard-sided luggage designed for modern travel.",
@@ -31,7 +31,7 @@
           ],
         },
         {
-          id: 2,
+          "id": 2,
           slug: "fynza-elite-3pc-set-2",
           name: "Fynza Chrome 28''",
           description: "Premium lightweight hard-sided luggage designed for modern travel.",
@@ -62,7 +62,7 @@
           ],
         },
         {
-          id: 3,
+          "id": 3,
           slug: "fynza-elite-3pc-set-3",
           name: "Fynza Chrome 28''",
           description: "Premium lightweight hard-sided luggage designed for modern travel.",
@@ -94,7 +94,7 @@
           ],
         },
         {
-          id: 4,
+          "id": 4,
           slug: "fynza-elite-3pc-set-4",
           name: "Fynza Chrome 28''",
           description: "Premium lightweight hard-sided luggage designed for modern travel.",
@@ -128,7 +128,7 @@
           ],
         },
         {
-          id: 5,
+          "id": 5,
           slug: "fynza-elite-3pc-set-5",
           name: "Fynza Chrome 28''",
           description: "Premium lightweight hard-sided luggage designed for modern travel.",
@@ -162,7 +162,7 @@
           ],
         },
         {
-          id: 6,
+          "id": 6,
           slug: "fynza-elite-3pc-set-6",
           name: "Fynza Chrome 28''",
           description: "Premium lightweight hard-sided luggage designed for modern travel.",
@@ -197,7 +197,7 @@
           ],
         },
         {
-          id: 7,
+          "id": 7,
           slug: "fynza-elite-3pc-set-7",
           name: "Fynza Chrome 28''",
           description: "Premium lightweight hard-sided luggage designed for modern travel.",
@@ -231,7 +231,7 @@
           ],
         },
         {
-          id: 8,
+          "id": 8,
           slug: "fynza-elite-3pc-set-8",
           name: "Fynza Chrome 28''",
           description: "Premium lightweight hard-sided luggage designed for modern travel.",
@@ -264,7 +264,7 @@
           ],
         },
         {
-          id: 9,
+          "id": 9,
           slug: "fynza-elite-3pc-set-9",
           name: "Fynza Chrome 28''",
           description: "Premium lightweight hard-sided luggage designed for modern travel.",
@@ -296,7 +296,7 @@
           ],
         },
         {
-          id: 10,
+          "id": 10,
           slug: "fynza-elite-3pc-set-10",
           name: "Fynza Chrome 28''",
           description: "Premium lightweight hard-sided luggage designed for modern travel.",
