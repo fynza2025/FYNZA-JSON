@@ -112,12 +112,10 @@
     ],
     "popularity": 90,
     "dateAdded": "2025-01-10",
-    "image": "https://ik.imagekit.io/am0wozj6r/FYNZA-WEB/Product%20Test%20Images/1.png",
+    "image": "https://ik.imagekit.io/am0wozj6r/FYNZA-WEB/Product%20Test%20Images/5.png",
     "images": [
-      "https://ik.imagekit.io/am0wozj6r/FYNZA-WEB/Product%20Test%20Images/1.png",
-      "https://ik.imagekit.io/am0wozj6r/FYNZA-WEB/Product%20Test%20Images/2.png",
-      "https://ik.imagekit.io/am0wozj6r/FYNZA-WEB/Product%20Test%20Images/3.png",
-      "https://ik.imagekit.io/am0wozj6r/FYNZA-WEB/Product%20Test%20Images/4.png"
+      "https://ik.imagekit.io/am0wozj6r/FYNZA-WEB/Product%20Test%20Images/5.png",
+      "https://ik.imagekit.io/am0wozj6r/FYNZA-WEB/Product%20Test%20Images/5.png"
     ],
     "features": [
       "Impact-resistant polycarbonate shell",
@@ -156,12 +154,12 @@
     ],
     "popularity": 90,
     "dateAdded": "2025-01-10",
-    "image": "https://ik.imagekit.io/am0wozj6r/FYNZA-WEB/Product%20Test%20Images/10.png",
+    "image": "https://ik.imagekit.io/am0wozj6r/FYNZA-WEB/Product%20Test%20Images/1.png",
     "images": [
-      "https://ik.imagekit.io/am0wozj6r/FYNZA-WEB/Product%20Test%20Images/10.png",
-      "https://ik.imagekit.io/am0wozj6r/FYNZA-WEB/Product%20Test%20Images/11.png",
-      "https://ik.imagekit.io/am0wozj6r/FYNZA-WEB/Product%20Test%20Images/12.png",
-      "https://ik.imagekit.io/am0wozj6r/FYNZA-WEB/Product%20Test%20Images/13.png"
+      "https://ik.imagekit.io/am0wozj6r/FYNZA-WEB/Product%20Test%20Images/1.png",
+      "https://ik.imagekit.io/am0wozj6r/FYNZA-WEB/Product%20Test%20Images/2.png",
+      "https://ik.imagekit.io/am0wozj6r/FYNZA-WEB/Product%20Test%20Images/3.png",
+      "https://ik.imagekit.io/am0wozj6r/FYNZA-WEB/Product%20Test%20Images/4.png"
     ],
     "features": [
       "Impact-resistant polycarbonate shell",
@@ -178,6 +176,50 @@
     "shortDescription": "Premium lightweight hard-sided luggage designed for modern travel.",
     "longDescription": "The FYNZA Elite Set is engineered with impact-resistant polycarbonate, silent spinner wheels, and a TSA lock for seamless travel.",
     "price": 2999,
+    "mrp": 5999,
+    "sizes": [
+      "Small-55cm",
+      "Medium-65cm",
+      "Large-75cm"
+    ],
+    "color": "Black",
+    "size": "Medium-65cm",
+    "material": "Polycarbonate",
+    "category": "cabin",
+    "colors": [
+      "Red",
+      "Black",
+      "Blue"
+    ],
+    "colorsHex": [
+      "#FF0000",
+      "#000000",
+      "#1E90FF"
+    ],
+    "popularity": 90,
+    "dateAdded": "2025-01-10",
+    "image": "https://ik.imagekit.io/am0wozj6r/FYNZA-WEB/Product%20Test%20Images/10.png",
+    "images": [
+      "https://ik.imagekit.io/am0wozj6r/FYNZA-WEB/Product%20Test%20Images/10.png",
+      "https://ik.imagekit.io/am0wozj6r/FYNZA-WEB/Product%20Test%20Images/11.png",
+      "https://ik.imagekit.io/am0wozj6r/FYNZA-WEB/Product%20Test%20Images/12.png",
+      "https://ik.imagekit.io/am0wozj6r/FYNZA-WEB/Product%20Test%20Images/13.png"
+    ],
+    "features": [
+      "Impact-resistant polycarbonate shell",
+      "Silent smooth-glide 360\u00b0 wheels",
+      "TSA-approved lock system",
+      "Expandability for extra packing",
+      "Anti-scratch matte finish"
+    ]
+  },
+  {
+    "id": 6,
+    "slug": "fynza-elite-3pc-set-6",
+    "name": "Fynza Chrome 28'' Model 6",
+    "shortDescription": "Premium lightweight hard-sided luggage designed for modern travel.",
+    "longDescription": "The FYNZA Elite Set is engineered with impact-resistant polycarbonate, silent spinner wheels, and a TSA lock for seamless travel.",
+    "price": 3099,
     "mrp": 5999,
     "sizes": [
       "Small-55cm",
@@ -217,12 +259,12 @@
     ]
   },
   {
-    "id": 6,
-    "slug": "fynza-elite-3pc-set-6",
-    "name": "Fynza Chrome 28'' Model 6",
+    "id": 7,
+    "slug": "fynza-elite-3pc-set-7",
+    "name": "Fynza Chrome 28'' Model 7",
     "shortDescription": "Premium lightweight hard-sided luggage designed for modern travel.",
     "longDescription": "The FYNZA Elite Set is engineered with impact-resistant polycarbonate, silent spinner wheels, and a TSA lock for seamless travel.",
-    "price": 3099,
+    "price": 3199,
     "mrp": 5999,
     "sizes": [
       "Small-55cm",
@@ -261,49 +303,6 @@
     ]
   },
   {
-    "id": 7,
-    "slug": "fynza-elite-3pc-set-7",
-    "name": "Fynza Chrome 28'' Model 7",
-    "shortDescription": "Premium lightweight hard-sided luggage designed for modern travel.",
-    "longDescription": "The FYNZA Elite Set is engineered with impact-resistant polycarbonate, silent spinner wheels, and a TSA lock for seamless travel.",
-    "price": 3199,
-    "mrp": 5999,
-    "sizes": [
-      "Small-55cm",
-      "Medium-65cm",
-      "Large-75cm"
-    ],
-    "color": "Black",
-    "size": "Medium-65cm",
-    "material": "Polycarbonate",
-    "category": "cabin",
-    "colors": [
-      "Red",
-      "Black",
-      "Blue"
-    ],
-    "colorsHex": [
-      "#FF0000",
-      "#000000",
-      "#1E90FF"
-    ],
-    "popularity": 90,
-    "dateAdded": "2025-01-10",
-    "image": "https://ik.imagekit.io/am0wozj6r/FYNZA-WEB/Product%20Test%20Images/7.png",
-    "images": [
-      "https://ik.imagekit.io/am0wozj6r/FYNZA-WEB/Product%20Test%20Images/7.png",
-      "https://ik.imagekit.io/am0wozj6r/FYNZA-WEB/Product%20Test%20Images/8.png",
-      "https://ik.imagekit.io/am0wozj6r/FYNZA-WEB/Product%20Test%20Images/9.png"
-    ],
-    "features": [
-      "Impact-resistant polycarbonate shell",
-      "Silent smooth-glide 360\u00b0 wheels",
-      "TSA-approved lock system",
-      "Expandability for extra packing",
-      "Anti-scratch matte finish"
-    ]
-  },
-  {
     "id": 8,
     "slug": "fynza-elite-3pc-set-8",
     "name": "Fynza Chrome 28'' Model 8",
@@ -332,10 +331,11 @@
     ],
     "popularity": 90,
     "dateAdded": "2025-01-10",
-    "image": "https://ik.imagekit.io/am0wozj6r/FYNZA-WEB/Product%20Test%20Images/5.png",
+    "image": "https://ik.imagekit.io/am0wozj6r/FYNZA-WEB/Product%20Test%20Images/7.png",
     "images": [
-      "https://ik.imagekit.io/am0wozj6r/FYNZA-WEB/Product%20Test%20Images/5.png",
-      "https://ik.imagekit.io/am0wozj6r/FYNZA-WEB/Product%20Test%20Images/5.png"
+      "https://ik.imagekit.io/am0wozj6r/FYNZA-WEB/Product%20Test%20Images/7.png",
+      "https://ik.imagekit.io/am0wozj6r/FYNZA-WEB/Product%20Test%20Images/8.png",
+      "https://ik.imagekit.io/am0wozj6r/FYNZA-WEB/Product%20Test%20Images/9.png"
     ],
     "features": [
       "Impact-resistant polycarbonate shell",
